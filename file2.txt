@@ -1,2 +1,6 @@
 This is my second file content from GIT local repo
+<<<<<<< HEAD
 This is second revert commit
+=======
+This is second line
+>>>>>>> parent of 949b6dd (This is first commit)

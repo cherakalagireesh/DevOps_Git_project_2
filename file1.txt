@@ -1,3 +1,6 @@
 This is my first file content from GitHub
 
+<<<<<<< HEAD
 This first rever commit
+=======
+>>>>>>> parent of 949b6dd (This is first commit)
