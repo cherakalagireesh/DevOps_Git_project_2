@@ -1,1 +1,2 @@
 This is third file content
+This is first reset commit
